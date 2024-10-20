@@ -103,28 +103,3 @@ pnpm dev --port 8023
 ```
 
 open `http://localhost:8023` for preview
-
-## Credit to
-
-- [aiwallpaper](https://aiwallpaper.shop) for code reference
-- [nextjs](https://nextjs.org/docs) for full-stack development
-- [tailwindcss](https://tailwindcss.com/) for page building
-- [shadcn/ui](https://ui.shadcn.com/docs/installation/next) for ui component
-- [next-auth](https://next-auth.js.org/getting-started/example) for auth
-- [next-intl](https://next-intl-docs.vercel.app/docs/getting-started) for multiple languages
-- [stripe](https://stripe.com/docs/development) for payment
-- [node-postgres](https://node-postgres.com/) for data processing
-
-## See also
-
-- [ThinkAny](https://thinkany.ai) AI Search Engine
-- [HeyBeauty](https://heybeauty.ai) AI Virtual Try-On
-- [GPTs Works](https://gpts.works) Third-Party GPTs Store
-
-## Who am I
-
-[I'm idoubi, a Full-stack-engineer](https://bento.me/idoubi)
-
-if this project is helpful to you, buy me a coffee.
-
-<a href="https://www.buymeacoffee.com/idoubi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
